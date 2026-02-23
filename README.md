@@ -78,55 +78,7 @@
 
 ---
 
-## 📱 Featured Projects
 
-### 🛍️ Veloura – Modular E-Commerce App
-**`Kotlin` `Jetpack Compose` `Clean Architecture` `Multi-Module` `MVVM` `Room` `Retrofit` `Coroutines` `StateFlow`**
-
-> *Android Developer | In Progress*
-
-- Modular e-commerce app built with **Clean Architecture** (Multi-Module) and **MVVM** pattern
-- Integrated **DummyJSON REST API** and **Firebase services** (Auth, Firestore, Storage)
-- **Offline-first** with Room Database
-- Achieved **40% faster load times** via optimized Coroutines & StateFlow
-- Full user flow: Splash → Onboarding → Auth → Home → Product Details → Profile
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinab112/veloura)
-
-### 🎬 Movies App
-**`Kotlin` `Jetpack Compose` `Clean Architecture` `MVVM` `Retrofit` `Hilt` `Coroutines` `DataStore` `Firebase Auth`**
-
-> *Android Developer*
-
-- Modern movie app with **Clean Architecture** and **MVVM** pattern
-- Integrated **TMDB API** with Retrofit & Coroutines
-- Implemented **Hilt** for dependency injection
-- Used **DataStore** for user preferences
-- Added **Firebase Authentication** for user login
-- Accessibility features: voice navigation, adjustable fonts
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinab112/movies-app)
-
-### 📚 E-Learning Platform
-**`HTML` `CSS` `JavaScript` `Firebase Auth`**
-
-> *Full Stack Developer | Jun 2024 – Aug 2024*
-
-- Responsive educational website with dynamic content and clean UI
-- Integrated **Firebase Authentication** for secure user management
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinab112/elearning-platform)
-
-### 🏥 Clinic Management System
-**`UML` `Software Documentation` `SRS` `System Analysis`**
-
-> *System Analyst*
-
-- Designed comprehensive UML diagrams: Class, Activity, Sequence, State
-- Authored complete **Software Requirements Specification (SRS)** following IEEE standards
-- Optimized clinic workflows and database structure
-
----
 
 ## 💼 Experience
 
