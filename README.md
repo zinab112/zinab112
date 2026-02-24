@@ -26,7 +26,7 @@
 
 ✨ **Digital Egypt Pioneers Initiative (DEPI)** — Selected among **Top 10%** of applicants
 
-📊 **GPA: 3.3/4.0** — Excellent Academic Standing at Sinai University
+📊 **GPA: 3.3/4.0** 
 
 </div>
 
